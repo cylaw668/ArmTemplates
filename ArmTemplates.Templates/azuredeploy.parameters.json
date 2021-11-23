@@ -6,7 +6,7 @@
       "value": "#arm_appBaseName#"
     },
     "appBaseSkuName": {
-      "value": "#appBaseSkuName#"
+      "value": "#arm_appBaseSkuName#"
     }
   }
 }
