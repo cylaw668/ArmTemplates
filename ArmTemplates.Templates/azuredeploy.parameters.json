@@ -4,9 +4,6 @@
   "parameters": {
     "appBaseName": {
       "value": "#arm_appBaseName#"
-    },
-    "appBaseSkuName": {
-      "value": "#arm_appBaseSkuName#"
     }
   }
 }
