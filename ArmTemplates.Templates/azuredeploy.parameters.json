@@ -3,10 +3,10 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "appBaseName": {
-      "value": "#arm_appBaseName#"
+      "value": "#appBaseName#"
     },
     "appBaseSkuName": {
-      "value": "#arm_appBaseSkuName#"
+      "value": "#appBaseSkuName#"
     }
   }
 }
